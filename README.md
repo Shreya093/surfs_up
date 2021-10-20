@@ -9,7 +9,7 @@ An investor wants to learn more about the weather before committing to build a S
 
 ### Temperature statistics for the month of June :
 
-<img width="151" alt="j1" src="https://user-images.githubusercontent.com/88418201/138007257-82edca30-03ef-40fe-975e-be1843218b78.png">
+<img width="140" alt="Screen Shot 2021-10-19 at 6 00 25 PM" src="https://user-images.githubusercontent.com/88418201/138010778-c8bf2afe-bf26-4a2b-82ef-7b7dee1930a0.png">
 
 ### Temperature statistics for the month of December :
 
